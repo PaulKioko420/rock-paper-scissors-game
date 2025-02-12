@@ -1,2 +1,2 @@
 # rock-paper-scissors-game
-game
+rock paper scissors game
